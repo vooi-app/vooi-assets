@@ -12,7 +12,7 @@ This repository includes:
 
 For your convenience, an archived version of the media kit is available. You can download it using the following link:
 
-[Download vooi-media-kit.zip](https://github.com/vooi-app/vooi-assets/vooi-media-kit.zip)
+[Download vooi-media-kit.zip](https://raw.githubusercontent.com/vooi-app/vooi-assets/main/vooi-media-kit.zip)
 
 ## Usage Guidelines
 
